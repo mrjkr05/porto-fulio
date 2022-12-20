@@ -1,0 +1,13 @@
+.dark{
+    background-color: black;
+}
+
+i{
+    color: white;
+    font-size: 22px;
+}
+
+.text-muted{
+    color: white!important;
+    font-size: 18px;
+}
